@@ -40,6 +40,6 @@
     "webpack": "^1.12.13"
   },
   "devDependencies": {
-
+    "redux-thunk": "^2.0.1"
   }
 }
